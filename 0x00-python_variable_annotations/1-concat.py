@@ -6,4 +6,5 @@ and a string str2 as arguments and returns a concatenated string
 
 
 def concat(a: str, b: str) -> str:
+    '''concat function'''
     return a + b
